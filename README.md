@@ -9,6 +9,8 @@ Build with Express JS framework to handle routing, middleware and server configu
 Getting Started
 
 1.npm install 
+
 2. Set up your PostgreSQL database and configure Prisma by updating the .env file
+  
 3. npm run dev
 
